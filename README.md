@@ -18,7 +18,7 @@ World-Wise is a web application that allows users to track the places they visit
 
 ## Live Demo
 
-You can view the live demo of the application here: [World-Wise Live Demo](https://world-wise-0.netlify.app/)
+You can view the live demo of the application here: [World-Wise Live Demo](https://world-wise-psi-blush.vercel.app)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
